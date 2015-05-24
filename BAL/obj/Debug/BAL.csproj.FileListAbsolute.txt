@@ -1,0 +1,7 @@
+C:\Users\Yash\Documents\Visual Studio 2008\Projects\MyWebApp\BAL\bin\Debug\BAL.dll
+C:\Users\Yash\Documents\Visual Studio 2008\Projects\MyWebApp\BAL\bin\Debug\BAL.pdb
+C:\Users\Yash\Documents\Visual Studio 2008\Projects\MyWebApp\BAL\bin\Debug\DALlib.dll
+C:\Users\Yash\Documents\Visual Studio 2008\Projects\MyWebApp\BAL\bin\Debug\DALlib.pdb
+C:\Users\Yash\Documents\Visual Studio 2008\Projects\MyWebApp\BAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yash\Documents\Visual Studio 2008\Projects\MyWebApp\BAL\obj\Debug\BAL.dll
+C:\Users\Yash\Documents\Visual Studio 2008\Projects\MyWebApp\BAL\obj\Debug\BAL.pdb

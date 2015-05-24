@@ -1,0 +1,22 @@
+﻿body
+{
+	font-family:Times New Roman,@Arial Unicode MS;
+	background-color:AntiqueWhite;
+}
+table.main_table
+{
+	empty-cells:hide;
+	width:100%
+}
+
+table.tab_table
+{
+	width:100%;
+	border-style:groove;
+}
+
+tr.tab_table,td.tab_table
+{
+	width:100%;
+	border-color:Black;
+}

@@ -1,0 +1,20 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/WebPages/Faculty.Master" AutoEventWireup="true" CodeBehind="PHChildPost.master.cs" Inherits="MyWebApp.WebPages.PHChild" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="CPH" runat="server">
+    <div class="row">
+    
+    <article class="col-lg-10 col-sm-7 col-lg-push-1 col-sm-push-4">
+    <asp:ContentPlaceHolder ID="Child1" runat="server">
+    </asp:ContentPlaceHolder>
+    </article>
+     
+    <aside class="col-lg-2 col-sm-4 col-lg-pull-11 col-sm-pull-8">
+        	<h3>Category</h3>
+            <ul class="nav nav-pills nav-stacked">
+                <li><a href="PrincipalHod_Post.aspx">Post-HOD</a></li>
+                <li><a href="FacultyPost.aspx">Post-Facculty</a></li>
+            </ul> 
+    </aside>
+    </div>
+</asp:Content>

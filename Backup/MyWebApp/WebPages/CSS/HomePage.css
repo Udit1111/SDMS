@@ -1,0 +1,27 @@
+﻿body
+{
+	background-color:AntiqueWhite;
+}
+table#tab , table
+{
+	background-color:Aquamarine;
+	table-layout:auto;
+	width:auto;
+	empty-cells:hide;
+	border-radius:20px 20px 20px 20px;
+}
+td,th
+{
+ border-style:none;
+ border-collapse:collapse;
+ width:100%;
+}
+#Login
+{ 
+	font-family:Times New Roman, @Arial Unicode MS;
+	float:right;
+}
+ui, li 
+{
+	list-style-type:none;
+}

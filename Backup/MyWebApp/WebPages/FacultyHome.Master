@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="FacultyHome.Master.cs" Inherits="MyWebApp.WebPages.Site1"%>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Welcome to SDMS!!!</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <link href="CSS/FacultyMaster.css" rel="stylesheet" type="text/css" />
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="topcontent">
+    <table class="main_table">
+        <tr>
+        <td>
+        Logo!!!
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <table class = "tab_table">
+            <tr>
+                <td>Profile
+                </td>
+                <td>Post
+                </td>
+                <td>Assignment
+                </td>
+                <td>Notice
+                </td>
+                <td>Search
+                </td>
+            </tr>
+            <tr>
+            </tr>
+        </table>
+        </td>
+        </tr>
+    </table>
+    </div>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+            <div style="width: 602px; height: 350px">
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+            </div>
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
